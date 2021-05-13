@@ -1,4 +1,4 @@
-# Hand Gesture Volumne Control:
+# Speech To Text Conversion:
 ![Python 3.6](https://img.shields.io/badge/Python-v3.6-green) ![Speech Recognition](https://img.shields.io/badge/speech%20recognition-3.8.1-yellow)
 
 
